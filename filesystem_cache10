@@ -1,0 +1,9 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1744757412
+Dungeon_Tileset.png::CompressedTexture2D/CompressedTexture2D::16734190350686988::1744743741::1744743741::1::::<><><>0<>0<>6bb471752c307560a1d4448ceda00231<>res://.godot/imported/Dungeon_Tileset.png-5bddb36c069ab266c123a680ead86ce1.ctex::
+enemies-skeleton1_idle.png::CompressedTexture2D/CompressedTexture2D::2651941984475037515::1744743825::1744743826::1::::<><><>0<>0<>2ff19254adc21297ea40c3305abdd8fb<>res://.godot/imported/enemies-skeleton1_idle.png-bcba9e0e34597d4227cec6784e8764d3.ctex::
+icon.svg::CompressedTexture2D/CompressedTexture2D::5753441097443657087::1744742976::1744742989::1::::<><><>0<>0<>1433c823ef40fabebb458a0be55313e9<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+jogador.gd::GDScript::3097928143389917918::1744745859::0::1::::<>CharacterBody2D<><>0<>0<><>::
+mundo.tscn::PackedScene::3350602854109385224::1744746330::0::1::::<><><>0<>0<><>::uid://bd1vdkfxwnwtf::::res://enemies-skeleton1_idle.png<>uid://bkewoobkn73a5::::res://jogador.gd
+::res://scripts/::1744744855
+jogador.gd::GDScript/GDScript::2192959993191778003::1744744855::0::1::::<>CharacterBody2D<><>0<>0<><>::
